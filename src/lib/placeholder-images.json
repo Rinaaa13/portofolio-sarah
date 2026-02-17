@@ -9,7 +9,7 @@
     {
       "id": "project_login_register",
       "description": "Clean UI design of a login and registration screen for a web application, with input fields, buttons, minimal flat design, professional, suitable for portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1740312734898-890e2b18f3fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsb2dpbiUyMHVpfGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1652013368390-1323c8376e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsb2dpbiUyMHVpfGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "login ui"
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": "project_guardmind",
       "description": "Web dashboard interface illustration with rich user interaction, multiple widgets, responsive design, flat style, professional, suitable for Front-End web portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzcxMzAyMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1579208575657-c595a05383b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzcxMzAyMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mental health"
     },
     {
@@ -33,20 +33,20 @@
     {
       "id": "project_rice",
       "description": "Time-series line chart and data visualization for predicting rice prices, LSTM AI model concept, clean flat design, professional, suitable for Data Analysis portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3NzEzMDIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1627482265910-5c0ff6bee088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyaWNlJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3NzEzMDIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "rice prediction"
     },
     {
       "id": "project_greenmind",
       "description": "Created the UI/UX for an AI-integrated recycling app promoting sustainable behavior. This project was recognized as one of the winning projects in a national competition.",
-      "imageUrl": "https://images.unsplash.com/photo-1758599668924-02f56a9aacc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tbXVuaXR5JTIwY2xlYW51cHxlbnwwfHx8fDE3NzEzMDI1NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1617822094285-b62a115456c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHklMjBjbGVhbnVwfGVufDB8fHx8MTc3MTU1OTU1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "community cleanup"
     },
     {
       "id": "project_palming",
       "description": "Designed an intuitive mobile app connecting travelers with local guides and tourism insights in Palembang. The design was recognized in a national-level UI/UX competition.",
-      "imageUrl": "https://images.unsplash.com/photo-1715392614673-8bd4efeacdfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb2NhbCUyMGd1aWRlfGVufDB8fHx8MTc3MTMwMjQzNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "local guide"
+      "imageUrl": "https://images.unsplash.com/photo-1578165239535-5179a633109a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbXBlcmElMjBicmlkZ2UlMjBwYWxlbWJhbmd8ZW58MHx8fHwxNzcxNTYwODU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ampera bridge"
     }
   ]
 }
