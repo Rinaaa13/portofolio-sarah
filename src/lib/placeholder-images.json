@@ -3,25 +3,25 @@
     {
       "id": "project_lamp_sim",
       "description": "Illustration of a smart home lamp control interface, showing switches and lights in a modern house, flat design, clean and minimal, bright colors, suitable for a portfolio of a Front-End web development project.",
-      "imageUrl": "https://images.unsplash.com/photo-1607201049320-34a5e3560b72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYW1wJTIwc3dpdGNofGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1641308343698-dcca380a91c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsYW1wJTIwc3dpdGNofGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "lamp switch"
     },
     {
       "id": "project_login_register",
       "description": "Clean UI design of a login and registration screen for a web application, with input fields, buttons, minimal flat design, professional, suitable for portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1683862657966-ff2e56174d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsb2dpbiUyMHVpfGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1722534644754-bf72d8358d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb2dpbiUyMHVpfGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "login ui"
     },
     {
       "id": "project_todo",
       "description": "Interactive task management web application UI illustration, showing checklists, add and delete buttons, bright and modern flat design, suitable for Front-End web development portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1598791318878-10e76d178023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0b2RvJTIwbGlzdHxlbnwwfHx8fDE3NzEzMDE5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0b2RvJTIwbGlzdHxlbnwwfHx8fDE3NzEzMDE5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "todo list"
     },
     {
       "id": "project_guardmind",
       "description": "Web dashboard interface illustration with rich user interaction, multiple widgets, responsive design, flat style, professional, suitable for Front-End web portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1604881991720-f91add269bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzcxMzAyMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1604480132736-44c188fe4d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzcxMzAyMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mental health"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": "project_rice",
       "description": "Time-series line chart and data visualization for predicting rice prices, LSTM AI model concept, clean flat design, professional, suitable for Data Analysis portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyaWNlJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3NzEzMDIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3NzEzMDIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "rice prediction"
     },
     {
       "id": "project_greenmind",
       "description": "Mobile app UI illustration for a recycling app with AI features, showing multiple screens and icons, user-centered design, clean and colorful, suitable for UI/UX portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1724500171238-159dc7e3afed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVjeWNsaW5nJTIwYXBwfGVufDB8fHx8MTc3MTMwMTk1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1771172195332-3bc9ded9f3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyZWN5Y2xpbmclMjBhcHB8ZW58MHx8fHwxNzcxMzAxOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "recycling app"
     },
     {
