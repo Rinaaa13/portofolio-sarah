@@ -1,5 +1,6 @@
 import type { LucideIcon } from 'lucide-react';
-import { Github, Linkedin, Mail, Phone, BarChart, Code, Palette } from 'lucide-react';
+import { Github, Linkedin, Mail, BarChart, Code, Palette } from 'lucide-react';
+import { WhatsappIcon } from '@/components/whatsapp-icon';
 
 export const profile = {
   name: "SARAH DESMARINA",
@@ -13,7 +14,7 @@ export const profile = {
   },
   contactLinks: [
     { icon: Mail, label: 'Email', value: 'sdesmarina@gmail.com', href: 'mailto:sdesmarina@gmail.com' },
-    { icon: Phone, label: 'Phone', value: '081278983795', href: 'tel:081278983795' },
+    { icon: WhatsappIcon as any, label: 'WhatsApp', value: '081278983795', href: 'https://wa.me/6281278983795' },
     { icon: Linkedin, label: 'LinkedIn', value: 'Sarah Desmarina', href: 'https://linkedin.com/in/sarah-desmarina-450651246' },
     { icon: Github, label: 'GitHub', value: 'Rinaaa13', href: 'https://github.com/Rinaaa13' },
   ]
