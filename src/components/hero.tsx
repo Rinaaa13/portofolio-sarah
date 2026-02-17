@@ -19,13 +19,21 @@ export function Hero() {
             </a>
           </Button>
           <div className="flex gap-4">
-            {profile.contactLinks.map((link) => (
-              <Button key={link.label} variant="ghost" size="icon" asChild>
-                <a href={link.href} target="_blank" rel="noopener noreferrer" aria-label={link.label}>
-                  <link.icon className="h-6 w-6" />
-                </a>
-              </Button>
-            ))}
+            {profile.contactLinks.map((link) => {
+              const isMail = link.href.startsWith('mailto:');
+              return (
+                <Button key={link.label} variant="ghost" size="icon" asChild>
+                  <a
+                    href={link.href}
+                    target={isMail ? '_self' : '_blank'}
+                    rel={isMail ? '' : 'noopener noreferrer'}
+                    aria-label={link.label}
+                  >
+                    <link.icon className="h-6 w-6" />
+                  </a>
+                </Button>
+              );
+            })}
           </div>
         </div>
       </div>
