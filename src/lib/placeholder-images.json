@@ -2,51 +2,51 @@
   "placeholderImages": [
     {
       "id": "project_lamp_sim",
-      "description": "A desk lamp",
-      "imageUrl": "https://images.unsplash.com/photo-1601642964568-1917224f4e4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZXNrJTIwbGFtcHxlbnwwfHx8fDE3NzEyMTQ3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "desk lamp"
+      "description": "Illustration of a smart home lamp control interface, showing switches and lights in a modern house, flat design, clean and minimal, bright colors, suitable for a portfolio of a Front-End web development project.",
+      "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGhvbWUlMjBjb250cm9sfGVufDB8fHx8MTc3MjE0NDQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart home"
     },
     {
       "id": "project_login_register",
-      "description": "Security lock interface",
-      "imageUrl": "https://images.unsplash.com/photo-1736410223296-4537159eefe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzZWN1cml0eSUyMGludGVyZmFjZXxlbnwwfHx8fDE3NzEyOTc4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "security interface"
+      "description": "Clean UI design of a login and registration screen for a web application, with input fields, buttons, minimal flat design, professional, suitable for portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1590005087722-12f808c160e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2VyJTIwYXV0aGVudGljYXRpb24lMjB1aXxlbnwwfHx8fDE3NzE5NTI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "authentication ui"
     },
     {
       "id": "project_todo",
-      "description": "Checklist on a clipboard",
-      "imageUrl": "https://images.unsplash.com/photo-1523705480679-b5d0cc17a656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGVja2xpc3QlMjBjbGlwYm9hcmR8ZW58MHx8fHwxNzcxMjk3ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "checklist clipboard"
+      "description": "Interactive task management web application UI illustration, showing checklists, add and delete buttons, bright and modern flat design, suitable for Front-End web development portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0by1kbyUyMGxpc3QlMjBpbGx1c3RyYXRpb258ZW58MHx8fHwxNzcxOTUyODA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "todo list"
     },
     {
       "id": "project_guardmind",
-      "description": "Digital shield",
-      "imageUrl": "https://images.unsplash.com/photo-1767469194952-6b6720d8108e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwc2hpZWxkfGVufDB8fHx8MTc3MTI5Nzg3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "digital shield"
+      "description": "Web dashboard interface illustration with rich user interaction, multiple widgets, responsive design, flat style, professional, suitable for Front-End web portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5JTIwZGFzaGJvYXJkJTIwaWxsdXN0cmF0aW9ufGVufDB8fHx8MTc3MTk1Mjg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security dashboard"
     },
     {
       "id": "project_sentiment",
-      "description": "Colorful data charts",
-      "imageUrl": "https://images.unsplash.com/photo-1762279389020-eeeb69c25813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkYXRhJTIwY2hhcnRzfGVufDB8fHx8MTc3MTI5Nzg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data charts"
+      "description": "Data analytics dashboard showing charts, bar graphs, pie charts, and sentiment analysis visualization, professional flat style, suitable for portfolio of a Data Analysis project.",
+      "imageUrl": "https://images.unsplash.com/photo-1625014618427-f2053642c161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzJTIwZGFzaGJvYXJkJTIwc2VudGltZW50JTIwaWxsdXN0cmF0aW9ufGVufDB8fHx8MTc3MTk1MjkzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "analytics dashboard"
     },
     {
       "id": "project_rice",
-      "description": "Graph over a rice paddy",
-      "imageUrl": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmFwaCUyMHJpY2V8ZW58MHx8fHwxNzcxMjk3ODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "graph rice"
+      "description": "Time-series line chart and data visualization for predicting rice prices, LSTM AI model concept, clean flat design, professional, suitable for Data Analysis portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1633409361618-c1674c20f7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aW1lLXNlcmllcyUyMGNoYXJ0JTIwcHJlZGljdGlvbiUyMGlsbHVzdHJhdGlvbnxlbnwwfHx8fDE3NzE5NTI5ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "prediction chart"
     },
     {
       "id": "project_greenmind",
-      "description": "Smartphone with green leaves",
-      "imageUrl": "https://images.unsplash.com/photo-1642380083018-903a33eaccca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaG9uZSUyMGxlYXZlc3xlbnwwfHx8fDE3NzEyOTc4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "phone leaves"
+      "description": "Mobile app UI illustration for a recycling app with AI features, showing multiple screens and icons, user-centered design, clean and colorful, suitable for UI/UX portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1604116315254-347c6a9b4624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWN5Y2xpbmclMjBhcHAlMjB1aSUyMGlsbHVzdHJhdGlvbnxlbnwwfHx8fDE3NzE5NTMwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "recycling app"
     },
     {
       "id": "project_palming",
-      "description": "Map on a mobile device",
-      "imageUrl": "https://images.unsplash.com/photo-1610985725707-bb0766bf123b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXAlMjBwaG9uZXxlbnwwfHx8fDE3NzEyOTc4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "map phone"
+      "description": "Mobile app UI illustration for a local tour guide app, showing travel booking screens, map and info pages, colorful and user-friendly design, flat style, suitable for UI/UX portfolio.",
+      "imageUrl": "https://images.unsplash.com/photo-1588497886419-a03d09a96c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBib29raW5nJTIwYXBwJTIwdWl8ZW58MHx8fHwxNzcxOTUzMTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel app"
     }
   ]
 }
