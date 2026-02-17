@@ -13,7 +13,7 @@ export const profile = {
     github: "https://github.com/Rinaaa13",
   },
   contactLinks: [
-    { icon: Mail, label: 'Email', value: 'sdesmarina@gmail.com', href: 'mailto:sdesmarina@gmail.com' },
+    { icon: Mail, label: 'Email', value: 'sdesmarina@gmail.com', href: 'https://mail.google.com/mail/?view=cm&fs=1&to=sdesmarina@gmail.com' },
     { icon: WhatsappIcon as any, label: 'WhatsApp', value: '081278983795', href: 'https://wa.me/6281278983795' },
     { icon: Linkedin, label: 'LinkedIn', value: 'Sarah Desmarina', href: 'https://linkedin.com/in/sarah-desmarina-450651246' },
     { icon: Github, label: 'GitHub', value: 'Rinaaa13', href: 'https://github.com/Rinaaa13' },
