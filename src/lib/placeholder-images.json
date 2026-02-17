@@ -3,49 +3,49 @@
     {
       "id": "project_lamp_sim",
       "description": "Illustration of a smart home lamp control interface, showing switches and lights in a modern house, flat design, clean and minimal, bright colors, suitable for a portfolio of a Front-End web development project.",
-      "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGhvbWUlMjBjb250cm9sfGVufDB8fHx8MTc3MjE0NDQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1608377205619-03a0b4c4e270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzbWFydCUyMGhvbWV8ZW58MHx8fHwxNzcxMzAxOTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "smart home"
     },
     {
       "id": "project_login_register",
       "description": "Clean UI design of a login and registration screen for a web application, with input fields, buttons, minimal flat design, professional, suitable for portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1590005087722-12f808c160e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2VyJTIwYXV0aGVudGljYXRpb24lMjB1aXxlbnwwfHx8fDE3NzE5NTI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://picsum.photos/seed/loginui/600/400",
       "imageHint": "authentication ui"
     },
     {
       "id": "project_todo",
       "description": "Interactive task management web application UI illustration, showing checklists, add and delete buttons, bright and modern flat design, suitable for Front-End web development portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0by1kbyUyMGxpc3QlMjBpbGx1c3RyYXRpb258ZW58MHx8fHwxNzcxOTUyODA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0b2RvJTIwbGlzdHxlbnwwfHx8fDE3NzEzMDE5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "todo list"
     },
     {
       "id": "project_guardmind",
       "description": "Web dashboard interface illustration with rich user interaction, multiple widgets, responsive design, flat style, professional, suitable for Front-End web portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5JTIwZGFzaGJvYXJkJTIwaWxsdXN0cmF0aW9ufGVufDB8fHx8MTc3MTk1Mjg4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1510182760-5565485cf674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZWN1cml0eSUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NzEzMDE5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "security dashboard"
     },
     {
       "id": "project_sentiment",
       "description": "Data analytics dashboard showing charts, bar graphs, pie charts, and sentiment analysis visualization, professional flat style, suitable for portfolio of a Data Analysis project.",
-      "imageUrl": "https://images.unsplash.com/photo-1625014618427-f2053642c161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzJTIwZGFzaGJvYXJkJTIwc2VudGltZW50JTIwaWxsdXN0cmF0aW9ufGVufDB8fHx8MTc3MTk1MjkzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1748609160056-7b95f30041f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzcxMjI2NTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "analytics dashboard"
     },
     {
       "id": "project_rice",
       "description": "Time-series line chart and data visualization for predicting rice prices, LSTM AI model concept, clean flat design, professional, suitable for Data Analysis portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1633409361618-c1674c20f7f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aW1lLXNlcmllcyUyMGNoYXJ0JTIwcHJlZGljdGlvbiUyMGlsbHVzdHJhdGlvbnxlbnwwfHx8fDE3NzE5NTI5ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1763038311036-6d18805537e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcmVkaWN0aW9uJTIwY2hhcnR8ZW58MHx8fHwxNzcxMzAxOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "prediction chart"
     },
     {
       "id": "project_greenmind",
       "description": "Mobile app UI illustration for a recycling app with AI features, showing multiple screens and icons, user-centered design, clean and colorful, suitable for UI/UX portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1604116315254-347c6a9b4624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWN5Y2xpbmclMjBhcHAlMjB1aSUyMGlsbHVzdHJhdGlvbnxlbnwwfHx8fDE3NzE5NTMwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1603811601606-1252ac37d097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZWN5Y2xpbmclMjBhcHB8ZW58MHx8fHwxNzcxMzAxOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "recycling app"
     },
     {
       "id": "project_palming",
       "description": "Mobile app UI illustration for a local tour guide app, showing travel booking screens, map and info pages, colorful and user-friendly design, flat style, suitable for UI/UX portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1588497886419-a03d09a96c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBib29raW5nJTIwYXBwJTIwdWl8ZW58MHx8fHwxNzcxOTUzMTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1528033978085-52f315289665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBhcHB8ZW58MHx8fHwxNzcxMzAxOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "travel app"
     }
   ]
