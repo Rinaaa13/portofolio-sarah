@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, Phone, BarChart, Code, Palette } from 'lucide-r
 export const profile = {
   name: "SARAH DESMARINA",
   location: "Palembang, South Sumatra",
-  bio: "A fresh graduate in Information Systems with a strong interest in data analysis and business operations. Experienced in academic projects, competitions, and collaborative environments. A fast learner with analytical thinking, problem-solving skills, and a strong motivation to grow as a future business leader.",
+  bio: "A fresh graduate in Information Systems with hands-on experience in Front-End web development, data dashboards, and user-centered designs. Familiar with cloud technologies through training. Experienced in project-based learning and collaborative team environments. Strong analytical thinking, problem-solving skills, and motivation to contribute to technology-driven business solutions",
   contact: {
     phone: "081278983795",
     email: "sdesmarina@gmail.com",
