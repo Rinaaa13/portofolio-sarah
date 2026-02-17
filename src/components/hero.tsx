@@ -1,7 +1,7 @@
 'use client';
 
 import { profile } from '@/lib/data';
-import { Button } from '@/components/ui/button';
+import { Button, buttonVariants } from '@/components/ui/button';
 import { ArrowDown } from 'lucide-react';
 
 export function Hero() {
@@ -25,17 +25,14 @@ export function Hero() {
               const isMail = link.href.startsWith('mailto:');
               if (isMail) {
                 return (
-                  <Button
+                  <a
                     key={link.label}
-                    variant="ghost"
-                    size="icon"
+                    href={link.href}
                     aria-label={link.label}
-                    onClick={() => {
-                      window.location.href = link.href;
-                    }}
+                    className={buttonVariants({ variant: 'ghost', size: 'icon' })}
                   >
                     <link.icon className="h-6 w-6" />
-                  </Button>
+                  </a>
                 );
               }
               return (
