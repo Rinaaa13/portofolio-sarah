@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "project_lamp_sim",
-      "description": "Abstract lights",
-      "imageUrl": "https://images.unsplash.com/photo-1573655349936-de6bed86f839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGxpZ2h0c3xlbnwwfHx8fDE3NzEyOTc4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "abstract lights"
+      "description": "A person controlling a smart light with a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1599304324393-2a40b171790c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzbWFydCUyMGxpZ2h0fGVufDB8fHx8MTc3MTYxMjYyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart light"
     },
     {
       "id": "project_login_register",
