@@ -42,8 +42,8 @@ export function Header() {
         </a>
         <nav className="hidden items-center gap-6 text-sm font-medium md:flex">
           <NavLink id="hero">About</NavLink>
-          <NavLink id="projects">Projects</NavLink>
           <NavLink id="education">Education</NavLink>
+          <NavLink id="projects">Projects</NavLink>
         </nav>
       </div>
     </header>

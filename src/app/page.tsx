@@ -11,8 +11,8 @@ export default function Home() {
       <main className="container mx-auto max-w-5xl px-4 py-8 md:py-16">
         <div className="flex flex-col gap-16 md:gap-24">
           <Hero />
-          <Projects />
           <Education />
+          <Projects />
         </div>
       </main>
       <Footer />
