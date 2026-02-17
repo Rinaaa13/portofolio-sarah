@@ -1,3 +1,5 @@
+'use client';
+
 import { profile } from '@/lib/data';
 import { Button } from '@/components/ui/button';
 import { ArrowDown } from 'lucide-react';
@@ -21,12 +23,27 @@ export function Hero() {
           <div className="flex gap-4">
             {profile.contactLinks.map((link) => {
               const isMail = link.href.startsWith('mailto:');
+              if (isMail) {
+                return (
+                  <Button
+                    key={link.label}
+                    variant="ghost"
+                    size="icon"
+                    aria-label={link.label}
+                    onClick={() => {
+                      window.location.href = link.href;
+                    }}
+                  >
+                    <link.icon className="h-6 w-6" />
+                  </Button>
+                );
+              }
               return (
                 <Button key={link.label} variant="ghost" size="icon" asChild>
                   <a
                     href={link.href}
-                    target={isMail ? '_self' : '_blank'}
-                    rel={isMail ? '' : 'noopener noreferrer'}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     aria-label={link.label}
                   >
                     <link.icon className="h-6 w-6" />
