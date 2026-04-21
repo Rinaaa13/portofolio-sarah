@@ -1,11 +1,11 @@
 import type { LucideIcon } from 'lucide-react';
-import { Github, Linkedin, Mail, BarChart, Code, Palette } from 'lucide-react';
+import { Github, Linkedin, Mail, BarChart, Code, Palette, CloudCog, ClipboardCheck } from 'lucide-react';
 import { WhatsappIcon } from '@/components/whatsapp-icon';
 
 export const profile = {
   name: "SARAH DESMARINA",
   location: "Palembang, South Sumatra",
-  bio: "A fresh graduate in Information Systems with hands-on experience in Front-End web development, data dashboards, and user-centered designs. Familiar with cloud technologies through training. Experienced in project-based learning and collaborative team environments. Strong analytical thinking, problem-solving skills, and motivation to contribute to technology-driven business solutions",
+  bio: "I am an Information Systems graduate with strong analytical skills and hands-on experience in cloud computing, data analysis, and front-end development. I enjoy solving real-world problems through technology and building data-driven solutions. Completed the Korea–ASEAN Digital Academy (selected from 900+ applicants), gaining hands-on technical experience. Also completed the AWS re/Start program, strengthening AWS fundamentals through labs and assessments. Currently pursuing a Cloud Engineer scholarship at Kebun Academy, starting with Japanese language training followed by AWS preparation for careers in Japan.",
   contact: {
     phone: "081278983795",
     email: "sdesmarina@gmail.com",
@@ -39,7 +39,7 @@ export const education = {
   ]
 };
 
-type ProjectCategory = 'Front-End' | 'Data Analysis' | 'UI/UX Design';
+type ProjectCategory = 'Front-End' | 'Data Analysis' | 'UI/UX Design' | 'Cloud & DevOps' | 'Software Testing';
 
 export interface Project {
   id: string;
@@ -56,9 +56,41 @@ export const projectCategories: Record<ProjectCategory, { icon: LucideIcon; colo
   'Front-End': { icon: Code, color: 'text-sky-500' },
   'Data Analysis': { icon: BarChart, color: 'text-emerald-500' },
   'UI/UX Design': { icon: Palette, color: 'text-violet-500' },
+  'Cloud & DevOps': { icon: CloudCog, color: 'text-orange-500' },
+  'Software Testing': { icon: ClipboardCheck, color: 'text-teal-500' },
 };
 
 export const projects: Project[] = [
+  {
+    id: 'aws-infra',
+    title: "AWS Infrastructure Project",
+    role: "EC2 Instance Deployment & Management",
+    year: "2023",
+    description: "Hands-on experience deploying and managing AWS EC2 instances with proper security configurations. Implemented secure access patterns using bastion hosts and automated instance provisioning with AWS CLI.",
+    link: "https://drive.google.com/file/d/1-vVa0CObS_sN68Bzv9bCzEz2NlDSHX5e/view?usp=drive_link",
+    category: 'Cloud & DevOps',
+    imagePlaceholderId: 'project_aws_infra'
+  },
+  {
+    id: 'cloud-monitoring',
+    title: "Cloud Monitoring Project",
+    role: "Docker-Based Cloud Simulation",
+    year: "2023",
+    description: "Built a comprehensive cloud simulation environment using Docker Compose with integrated monitoring stack. The system demonstrates real-world cloud infrastructure monitoring capabilities essential for Cloud Engineering roles.",
+    link: "https://drive.google.com/file/d/10DZVzXlQiDKgZ9t92mGRYpRG8fJ7kxsP/view?usp=drive_link",
+    category: 'Cloud & DevOps',
+    imagePlaceholderId: 'project_cloud_monitoring'
+  },
+  {
+    id: 'event-management-testing',
+    title: "Event Management System Project",
+    role: "Front-End Tester",
+    year: "2023",
+    description: "Performed manual testing for a web-based event management application (KADA Final Project). Ensured functionality and usability across key features such as CRUD operations, authentication, and participant management. Detected and documented bugs, contributing to improved system reliability and user experience through collaboration with developers.",
+    link: "https://drive.google.com/file/d/1ycen70IlabDukRb69yKXryyEkJtmxxJw/view?usp=drive_link",
+    category: 'Software Testing',
+    imagePlaceholderId: 'project_event_management'
+  },
   {
     id: 'lamp-sim',
     title: "Website Lamp Simulation",
@@ -139,4 +171,34 @@ export const projects: Project[] = [
     category: 'UI/UX Design',
     imagePlaceholderId: 'project_palming'
   },
+  {
+    id: 'personal-finance-app',
+    title: "Personal Finance App UI",
+    role: "UI/UX Designer",
+    year: "2024",
+    description: "Designed a clean and intuitive mobile app interface for tracking personal expenses and budgets. Focused on user-friendly navigation and data visualization.",
+    link: "#",
+    category: 'UI/UX Design',
+    imagePlaceholderId: 'project_finance_app'
+  },
+  {
+    id: 'blog-api',
+    title: "RESTful Blog API",
+    role: "Back-End Developer",
+    year: "2023",
+    description: "Developed a secure and scalable RESTful API for a blogging platform using Node.js and Express. Implemented features for user authentication, post creation, and comments.",
+    link: "#",
+    category: 'Cloud & DevOps',
+    imagePlaceholderId: 'project_blog_api'
+  },
+  {
+    id: 'sales-dashboard',
+    title: "Interactive Sales Dashboard",
+    role: "Data Analyst",
+    year: "2024",
+    description: "Created an interactive dashboard using Tableau to visualize sales data. The dashboard helps identify sales trends, top-performing products, and regional performance.",
+    link: "#",
+    category: 'Data Analysis',
+    imagePlaceholderId: 'project_sales_dashboard'
+  }
 ];
