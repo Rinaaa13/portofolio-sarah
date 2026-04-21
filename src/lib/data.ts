@@ -170,35 +170,5 @@ export const projects: Project[] = [
     link: "https://drive.google.com/file/d/16j8xp7iKJHGJYMg3AIGlSMlVn0e0WOQE/view?usp=sharing",
     category: 'UI/UX Design',
     imagePlaceholderId: 'project_palming'
-  },
-  {
-    id: 'personal-finance-app',
-    title: "Personal Finance App UI",
-    role: "UI/UX Designer",
-    year: "2024",
-    description: "Designed a clean and intuitive mobile app interface for tracking personal expenses and budgets. Focused on user-friendly navigation and data visualization.",
-    link: "#",
-    category: 'UI/UX Design',
-    imagePlaceholderId: 'project_finance_app'
-  },
-  {
-    id: 'blog-api',
-    title: "RESTful Blog API",
-    role: "Back-End Developer",
-    year: "2023",
-    description: "Developed a secure and scalable RESTful API for a blogging platform using Node.js and Express. Implemented features for user authentication, post creation, and comments.",
-    link: "#",
-    category: 'Cloud & DevOps',
-    imagePlaceholderId: 'project_blog_api'
-  },
-  {
-    id: 'sales-dashboard',
-    title: "Interactive Sales Dashboard",
-    role: "Data Analyst",
-    year: "2024",
-    description: "Created an interactive dashboard using Tableau to visualize sales data. The dashboard helps identify sales trends, top-performing products, and regional performance.",
-    link: "#",
-    category: 'Data Analysis',
-    imagePlaceholderId: 'project_sales_dashboard'
   }
 ];
