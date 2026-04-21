@@ -17,7 +17,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
   const CategoryIcon = projectCategories[project.category].icon;
 
   return (
-    <Card className="group flex h-full flex-col overflow-hidden transition-shadow duration-300 hover:shadow-xl">
+    <Card className="group flex h-full flex-col overflow-hidden shadow-none transition-colors duration-300 hover:border-primary">
       {image && (
         <div className="relative h-48 w-full overflow-hidden">
           <Image
