@@ -1,52 +1,48 @@
 {
   "placeholderImages": [
     {
+      "id": "project_aws_infra",
+      "imageUrl": "/images/project_1.png"
+    },
+    {
+      "id": "project_cloud_monitoring",
+      "imageUrl": "/images/project_2.png"
+    },
+    {
+      "id": "project_event_management",
+      "imageUrl": "/images/project_3.png"
+    },
+    {
       "id": "project_lamp_sim",
-      "description": "Illustration of a smart home lamp control interface, showing switches and lights in a modern house, flat design, clean and minimal, bright colors, suitable for a portfolio of a Front-End web development project.",
-      "imageUrl": "https://images.unsplash.com/photo-1621177555630-b861919c864f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsYW1wfGVufDB8fHx8MTc3MTMwMjQzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lamp"
+      "imageUrl": "/images/project_4.png"
     },
     {
       "id": "project_login_register",
-      "description": "Clean UI design of a login and registration screen for a web application, with input fields, buttons, minimal flat design, professional, suitable for portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1510519485038-49c6e3f4340e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb2dpbiUyMHVpfGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "login ui"
+      "imageUrl": "/images/project_5.png"
     },
     {
       "id": "project_todo",
-      "description": "Interactive task management web application UI illustration, showing checklists, add and delete buttons, bright and modern flat design, suitable for Front-End web development portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0b2RvJTIwbGlzdHxlbnwwfHx8fDE3NzEzMDE5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "todo list"
+      "imageUrl": "/images/project_6.png"
     },
     {
       "id": "project_guardmind",
-      "description": "Web dashboard interface illustration with rich user interaction, multiple widgets, responsive design, flat style, professional, suitable for Front-End web portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1564121211835-e88c852648ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWVudGFsJTIwaGVhbHRofGVufDB8fHx8MTc3MTMwMjE3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mental health"
+      "imageUrl": "/images/project_7.png"
     },
     {
       "id": "project_sentiment",
-      "description": "Data analytics dashboard showing charts, bar graphs, pie charts, and sentiment analysis visualization, professional flat style, suitable for portfolio of a Data Analysis project.",
-      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzcxMjI2NTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "analytics dashboard"
+      "imageUrl": "/images/project_8.png"
     },
     {
       "id": "project_rice",
-      "description": "Time-series line chart and data visualization for predicting rice prices, LSTM AI model concept, clean flat design, professional, suitable for Data Analysis portfolio.",
-      "imageUrl": "https://images.unsplash.com/photo-1686820740687-426a7b9b2043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwcHJlZGljdGlvbnxlbnwwfHx8fDE3NzEzMDIxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "rice prediction"
+      "imageUrl": "/images/project_9.png"
     },
     {
       "id": "project_greenmind",
-      "description": "Created the UI/UX for an AI-integrated recycling app promoting sustainable behavior. This project was recognized as one of the winning projects in a national competition.",
-      "imageUrl": "https://images.unsplash.com/photo-1597700112072-fa3c1d930655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHklMjBjbGVhbnVwfGVufDB8fHx8MTc3MTMwMjU0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "community cleanup"
+      "imageUrl": "/images/project_10.png"
     },
     {
       "id": "project_palming",
-      "description": "Designed an intuitive mobile app connecting travelers with local guides and tourism insights in Palembang. The design was recognized in a national-level UI/UX competition.",
-      "imageUrl": "https://images.unsplash.com/photo-1627138004582-8e3a6b232605?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGFsZW1iYW5nJTIwY2l0eXxlbnwwfHx8fDE3NzEzMDI3NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "palembang city"
+      "imageUrl": "/images/project_11.png"
     }
   ]
 }
