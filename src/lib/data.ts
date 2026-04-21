@@ -62,16 +62,6 @@ export const projectCategories: Record<ProjectCategory, { icon: LucideIcon; colo
 
 export const projects: Project[] = [
   {
-    id: 'aws-infra',
-    title: "AWS Infrastructure Project",
-    role: "EC2 Instance Deployment & Management",
-    year: "2023",
-    description: "Hands-on experience deploying and managing AWS EC2 instances with proper security configurations. Implemented secure access patterns using bastion hosts and automated instance provisioning with AWS CLI.",
-    link: "https://drive.google.com/file/d/1-vVa0CObS_sN68Bzv9bCzEz2NlDSHX5e/view?usp=drive_link",
-    category: 'Cloud & DevOps',
-    imagePlaceholderId: 'project_aws_infra'
-  },
-  {
     id: 'cloud-monitoring',
     title: "Cloud Monitoring Project",
     role: "Docker-Based Cloud Simulation",
@@ -80,6 +70,16 @@ export const projects: Project[] = [
     link: "https://drive.google.com/file/d/10DZVzXlQiDKgZ9t92mGRYpRG8fJ7kxsP/view?usp=drive_link",
     category: 'Cloud & DevOps',
     imagePlaceholderId: 'project_cloud_monitoring'
+  },
+  {
+    id: 'aws-infra',
+    title: "AWS Infrastructure Project",
+    role: "EC2 Instance Deployment & Management",
+    year: "2023",
+    description: "Hands-on experience deploying and managing AWS EC2 instances with proper security configurations. Implemented secure access patterns using bastion hosts and automated instance provisioning with AWS CLI.",
+    link: "https://drive.google.com/file/d/1-vVa0CObS_sN68Bzv9bCzEz2NlDSHX5e/view?usp=drive_link",
+    category: 'Cloud & DevOps',
+    imagePlaceholderId: 'project_aws_infra'
   },
   {
     id: 'event-management-testing',
